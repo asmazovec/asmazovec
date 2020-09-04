@@ -1,17 +1,20 @@
+фотография [авторки](https://vk.com/imjustmovingon) :)
+
+
 # Полезные ссылки
 
-- [Тренажер слепой печати](https://www.keybr.com/)
-- [Редактор с подсказками](https://app.linguix.com/documents/my)
-
----
-
-- [C/С++ справочник](https://ru.cppreference.com/w/)
-- [Huskell справочник](http://hackage.haskell.org/)
-- [Vim awesome](https://vimawesome.com/)
-
----
-
 - [IEEE](http://www.ieee802.org/)
+
+---
+
+- [Тренажер слепой печати](https://www.keybr.com/) - несколько языков, настройки условий печати;
+- [Редактор с подсказками](https://app.linguix.com/documents/my) - редактор для англоязычных текстов с подсказками и аналитикой;
+
+---
+
+- [C/С++ справочник](https://ru.cppreference.com/w/) - подробный, с исчерпывающими примерами, но кривым автоматическим переводом на русский;
+- [Huskell справочник](http://hackage.haskell.org/) - и указатель с удобным поиском по самым разным библиотекам (в тч xmonad);
+- [Vim awesome](https://vimawesome.com/) - все мыслимые и немыслимые плагины для vim/neovim.
 
 
 # Чтиво
