@@ -1,16 +1,16 @@
-фотография [авторки](https://vk.com/imjustmovingon) :)
+Фотография [@imjustmovingon](https://vk.com/imjustmovingon) :)
 
+- asmazovec@yandex.ru
+- https://vk.com/asmazovec
 
 # Полезные ссылки
 
 - [IEEE](http://www.ieee802.org/)
 
----
 
 - [Тренажер слепой печати](https://www.keybr.com/) - несколько языков, настройки условий печати;
 - [Редактор с подсказками](https://app.linguix.com/documents/my) - редактор для англоязычных текстов с подсказками и аналитикой;
 
----
 
 - [C/С++ справочник](https://ru.cppreference.com/w/) - подробный, с исчерпывающими примерами, но кривым автоматическим переводом на русский;
 - [Huskell справочник](http://hackage.haskell.org/) - и указатель с удобным поиском по самым разным библиотекам (в тч xmonad);
@@ -31,3 +31,8 @@
 ## Что еще хочу
 
 - Язык шаблонов Кристофер Аландер
+
+
+# Друзья
+
+https://github.com/MehMessGo, https://github.com/ritenshe, https://github.com/mdenushev
