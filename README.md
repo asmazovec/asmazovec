@@ -13,7 +13,6 @@
 
 - [IEEE](http://www.ieee802.org/)
 
----
 
 # Чтиво
 
