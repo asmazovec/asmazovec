@@ -31,7 +31,7 @@ I'm currently diving deep into:
 
 - Authorization and Authentication protocols: OAuth2.0, JWT, OIDC
 - Go development for web services
-- Microservice architecture and patterns
+- WebSockets
 
 ## 🌟 Let's Connect!
 
