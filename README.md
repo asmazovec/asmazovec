@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Alexander Mazovec
 
-Welcome to my corner of GitHub! I'm a passionate .NET Core developer with a knack for full-stack development and a love for solving complex problems. My dream? To transition t a Go-centric tech stack!
+Welcome to my corner of GitHub! I'm a passionate .NET Core developer with a knack for full-stack development and a love for solving complex problems. My dream? To transition to a Go-centric tech stack!
 
 ## 💼 What I Do
 
