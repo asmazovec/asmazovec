@@ -25,6 +25,14 @@ My passion for development extends beyond my professional role:
 
 I hold a bachelor's degree in Software Engineering (2019-2023), and am currently pursuing a master's degree in Software Product Line Engineering. My next goals? Doctoral studies and mastering Go!
 
+## 🌱 What I'm Learning
+
+I'm currently diving deep into:
+
+- Authorization and Authentication protocols: OAuth2.0, JWT, OIDC
+- Go development for web services
+- Microservice architecture and patterns
+
 ## 🌟 Let's Connect!
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate, chat about tech, or discuss the wonders of Go. Happy coding!
