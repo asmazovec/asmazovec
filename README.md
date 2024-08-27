@@ -30,7 +30,7 @@ I hold a bachelor's degree in Software Engineering (2019-2023), and am currently
 I'm currently diving deep into:
 
 - Authorization and Authentication protocols: OAuth2.0, JWT, OIDC
-- Go development for web services
+- Go development for web services [team-agile](https://github.com/asmazovec/team-agile)
 - WebSockets
 
 ## 🌟 Let's Connect!
