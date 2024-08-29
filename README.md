@@ -21,7 +21,7 @@ My passion for development extends beyond my professional role:
 - I'm enthusiastic about DevOps and love writing automation scripts on `Bash`, `Perl`, `Python` and others
 - I enjoy integrating code quality checking tools and other nice CI practices into my own projects!
 - I'm actively exploring `Go` and dreaming of integrating it into my primary development stack
-- I train on [codewars](https://www.codewars.com/usesr/asmazovec) 
+- I train on [codewars](https://www.codewars.com/users/asmazovec) 
 
 ## 🎓 Education & Aspirations
 
